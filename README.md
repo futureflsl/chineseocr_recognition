@@ -1,4 +1,4 @@
-# chineseocr_recongnition
+# chineseocr_recognition
 crnn pytorch code for train and test
 
 # environment
